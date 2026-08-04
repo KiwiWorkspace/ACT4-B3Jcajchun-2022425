@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "nombre": "Algo",
+        "apellido": "Algo",
+        "edad": 2,
+        "correo": "asasdasd",
+        "contrasena": 13,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 3,
+        "nombre": "Pablo",
+        "apellido": "Polanco",
+        "edad": 17,
+        "correo": "kiwi@hotmail.es",
+        "contrasena": 123,
+        "rol": "NO SE",
+        "estado": "NO SE"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "nombre": "Salsa de Queso",
+        "descripcion": "Es una salsa, que sabe a queso",
+        "precio": 15.5,
+        "stock": 50,
+        "categoria": "Comida"
+    }
+]
